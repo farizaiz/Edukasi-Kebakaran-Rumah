@@ -1,0 +1,604 @@
+{
+  "quiz": [
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "3 unsur terjadinya api, kecuali",
+      "optionA": "Sumber panas",
+      "optionB": "Busa",
+      "optionC": "Bahan mudah terbakar",
+      "optionD": "Oksigen",
+      "answer": "B"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Apa penyebab umum terjadinya kebakaran rumah?",
+      "optionA": "Korsleting listrik, pemanasan yang tidak aman, dan kelalaian saat memasak",
+      "optionB": "Kebocoran kran dan pipa air",
+      "optionC": "Pemakaian peralatan elektronik yang berlebihan.",
+      "optionD": "Bahan bangunan yang tidak tahan api.",
+      "answer": "A"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Benda yang mudah terbakar adalah….",
+      "optionA": "Logam",
+      "optionB": "Plastik",
+      "optionC": "Marmer",
+      "optionD": "Kaca",
+      "answer": "B"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Teori yang menguraikan bagaimana api bisa terbentuk disebut?",
+      "optionA": "Lingkaran Api",
+      "optionB": "Persegi Api",
+      "optionC": "Segi Lima Api",
+      "optionD": "Segitiga Api",
+      "answer": "D"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Apa faktor alam yang menyebabkan kebakaran rumah?",
+      "optionA": "Merokok",
+      "optionB": "Pembakaran sampah",
+      "optionC": "Kilat petir",
+      "optionD": "Membiarkan kompor menyala",
+      "answer": "C"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Akibat dari penanganan listrik yang salah dapat menimbulkan panas dan kebakaran seperti contoh dibawah ini, kecuali",
+      "optionA": "Stop kontak bertumpuk-tumpuk",
+      "optionB": "Penggantian sekering yang sesuai ukurannya",
+      "optionC": "Sambungan kabel atau stop kontak yang tidak baik atau kendor",
+      "optionD": "Hubungan pendek",
+      "answer": "B"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Contoh dari benda cair yang dapat menyebabkan kebakaran adalah",
+      "optionA": "Minyak tanah",
+      "optionB": "Kayu",
+      "optionC": "Kain",
+      "optionD": "Gas Elpiji",
+      "answer": "A"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Berapa minimal persen volume oksigen dalam udara agar terjadi pembakaran?",
+      "optionA": "Sekitar 15%",
+      "optionB": "Sekitar 10%",
+      "optionC": "Sekitar 5%",
+      "optionD": "Tidak ada minimal",
+      "answer": "A"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Apa yang dimaksud dengan 'api' dalam kebakaran?",
+      "optionA": "Sumber panas yang menyebabkan kebakaran",
+      "optionB": "Proses pembakaran yang menghasilkan asap",
+      "optionC": "Cahaya dan panas yang dihasilkan oleh reaksi kimia pembakaran",
+      "optionD": "Reaksi kimia yang menyebabkan perubahan warna pada bahan",
+      "answer": "C"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Apa yang dimaksud dengan 'sumber panas' dalam kebakaran?",
+      "optionA": "Material yang terbakar dalam suatu kejadian",
+      "optionB": "Suhu tinggi yang diperlukan agar bahan dapat terbakar",
+      "optionC": "Proses perambatan api dari satu bahan bakar ke bahan bakar lainnya",
+      "optionD": "Benda atau zat yang menghasilkan energi panas untuk memicu pembakaran",
+      "answer": "D"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Apa yang dimaksud dengan 'sumber oksigen' dalam kebakaran?",
+      "optionA": "Material yang terbakar dalam suatu kejadian",
+      "optionB": "Suhu tinggi yang diperlukan agar bahan dapat terbakar",
+      "optionC": "Udara yang diperlukan untuk mendukung pembakaran",
+      "optionD": "Benda atau zat yang menghasilkan energi panas untuk memicu pembakaran",
+      "answer": "C"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Penyebab umum terjadinya kebakaran rumah adalah?",
+      "optionA": "Pemanasan global",
+      "optionB": "Kondisi cuaca yang cerah",
+      "optionC": "Kebocoran air di rumah",
+      "optionD": "Korsleting listrik atau kelalaian dalam menggunakan peralatan listrik",
+      "answer": "D"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Api dapat merambat dengan cepat karena?",
+      "optionA": "Transfer panas dari bahan yang terbakar ke bahan sekitarnya",
+      "optionB": "Bahan bakar yang digunakan terlalu sedikit",
+      "optionC": "Adanya ventilasi yang baik di sekitar area terbakar",
+      "optionD": "Proses oksidasi yang sangat lambat",
+      "answer": "A"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Kebakaran yang disebabkan oleh listrik bisa terjadi karena?",
+      "optionA": "Penggunaan peralatan listrik yang berlebihan",
+      "optionB": "Kehadiran binatang liar di sekitar kabel listrik",
+      "optionC": "Cuaca yang sangat panas sehingga kabel listrik meleleh",
+      "optionD": "Terjadinya angin kencang yang memengaruhi kelistrikan",
+      "answer": "A"
+    },
+    {
+      "courseId": "Apa Itu Kebakaran?",
+      "imgLink": "",
+      "question": "Bagaimana cara api dapat dipadamkan?",
+      "optionA": "Dengan menambahkan lebih banyak bahan bakar",
+      "optionB": "Dengan menghilangkan sumber panas, oksigen, atau bahan bakar",
+      "optionC": "Dengan mengisolasi area terbakar",
+      "optionD": "Dengan meningkatkan sirkulasi udara di sekitar api",
+      "answer": "B"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Berikut adalah tips mencegah kebakaran rumah, kecuali",
+      "optionA": "Bijak dalam menggunakan alat-alat listrik",
+      "optionB": "Jauhkan pemantik dan korek api dari jangkauan anak-anak",
+      "optionC": "Menaruh minyak tanah dekat dengan sumber api",
+      "optionD": "Berhati-hati ketika merokok",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Salah satu dari 7 langkah cegah kebakaran akibat korsleting listrik adalah",
+      "optionA": "Jangan menumpuk steker",
+      "optionB": "Meninggalkan peralatan listrik menyala saat keluar rumah",
+      "optionC": "Menggunakan peralatan listrik dengan daya yang melebihi batas aman",
+      "optionD": "Menyalakan banyak peralatan listrik secara bersamaan",
+      "answer": "A"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya kita siapkan untuk mencegah kebakaran? ",
+      "optionA": "Asbak",
+      "optionB": "Smoke detector",
+      "optionC": "Tongkat",
+      "optionD": "Masker",
+      "answer": "B"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Bagaimana cara menghindari kebakaran akibat rokok?",
+      "optionA": "Membuang puntung rokok dengan sembarangan",
+      "optionB": "Merokok di tempat terlarang",
+      "optionC": "Membiarkan puntung rokok terbakar sendiri di dalam asbak",
+      "optionD": "Memadamkan puntung rokok dengan benar dan membuangnya ke tempat yang aman",
+      "answer": "D"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan saat meninggalkan rumah dalam waktu yang lama?",
+      "optionA": "Meninggalkan peralatan elektronik dalam keadaan menyala",
+      "optionB": "Mematikan semua peralatan elektronik dan listrik",
+      "optionC": "Meninggalkan dapur dengan kompor masih menyala",
+      "optionD": "Menyalakan seluruh lampu rumah",
+      "answer": "B"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan saat merawat sistem listrik rumah, kecuali:",
+      "optionA": "Memeriksa kabel-kabel listrik secara berkala",
+      "optionB": "Menggunakan peralatan listrik dengan daya yang melebihi batas aman",
+      "optionC": "Memperbaiki kabel yang rusak atau terkelupas",
+      "optionD": "Memastikan instalasi listrik dilakukan oleh tenaga ahli yang kompeten",
+      "answer": "B"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Bagaimana cara mengurangi risiko kebakaran di dapur?",
+      "optionA": "Meninggalkan kompor dalam keadaan menyala tanpa pengawasan",
+      "optionB": "Menggunakan kain lap yang mudah terbakar di sekitar kompor",
+      "optionC": "Mematikan kompor setelah selesai memasak",
+      "optionD": "Menyimpan bahan bakar di dalam dapur",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Bagaimana cara mencegah kebakaran akibat lilin, kecuali:",
+      "optionA": "Menjaga lilin tetap diawasi saat menyala",
+      "optionB": "Menempatkan lilin di tempat yang stabil dan tidak mudah terbalik",
+      "optionC": "Menggunakan lilin yang terlindung dari angin atau udara bergerak",
+      "optionD": "Meninggalkan lilin menyala saat meninggalkan rumah atau ruangan",
+      "answer": "D"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Pencegahan kebakaran adalah",
+      "optionA": "Upaya mengatur pemanasan di dalam rumah",
+      "optionB": "Menghindari pemakaian alat listrik yang berlebihan",
+      "optionC": "Segala tindakan untuk mengurangi risiko kebakaran dan kerusakan",
+      "optionD": "Menjaga perapian tetap menyala sepanjang waktu",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Mengapa penting untuk memiliki alarm asap (smoke alarm) di rumah?",
+      "optionA": "Untuk memberi tahu Anda jika ada angin kencang di luar rumah",
+      "optionB": "Untuk memberi tahu Anda jika ada gas bocor di dalam rumah",
+      "optionC": "Untuk mendeteksi asap pada tahap awal kebakaran dan memberi peringatan dini",
+      "optionD": "Untuk memberi tahu Anda jika ada hewan liar masuk ke dalam rumah",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Manakah dari tindakan berikut yang termasuk dalam pencegahan kebakaran di area luar rumah?",
+      "optionA": "Menggunakan banyak lilin saat berpesta di taman",
+      "optionB": "Memasak di luar rumah menggunakan kompor bertenaga gas",
+      "optionC": "Membuang puntung rokok dengan sembarangan",
+      "optionD": "Menggunakan alat pemanggang (grill) yang tepat dan memadamkan api setelah selesai",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Tindakan yang tepat jika menemukan kabel listrik yang terkelupas atau rusak adalah",
+      "optionA": "Menggunakan kabel listrik tersebut dengan hati-hati",
+      "optionB": "Mengganti kabel listrik dengan kabel baru yang lebih panjang",
+      "optionC": "Mencoba memperbaiki kabel listrik sendiri",
+      "optionD": "Menyegel atau mengisolasi bagian yang rusak dan segera melaporkan ke ahli listrik",
+      "answer": "D"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Langkah pencegahan kebakaran yang tepat saat mengoperasikan kompor gas adalah",
+      "optionA": "Menyalakan kompor sebelum menempatkan panci atau wajan di atasnya",
+      "optionB": "Memastikan bahwa ada cukup sirkulasi udara di sekitar kompor",
+      "optionC": "Menggunakan alat pemadam api ringan (APAR) saat memasak",
+      "optionD": "Menyimpan kompor gas di dekat bahan mudah terbakar",
+      "answer": "B"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Mengapa penting untuk mematikan dan mencabut semua peralatan listrik ketika meninggalkan rumah untuk jangka waktu yang lama?",
+      "optionA": "Agar tetangga Anda tidak mengalami pemadaman listrik",
+      "optionB": "Untuk menghemat energi dan biaya listrik",
+      "optionC": "Agar peralatan listrik tidak rusak atau terkena korsleting selama Anda tidak berada di rumah",
+      "optionD": "Membiarkan peralatan listrik tetap terhubung dengan sumber daya dapat membantu mencegah kebakaran",
+      "answer": "C"
+    },
+    {
+      "courseId": "Tips Cegah Kebakaran Rumah",
+      "imgLink": "",
+      "question": "Mengapa penting untuk memeriksa apakah kompor, oven, dan semua peralatan listrik telah dimatikan dengan benar sebelum meninggalkan rumah?",
+      "optionA": "Agar tetangga Anda tidak menganggap rumah Anda kosong",
+      "optionB": "Memastikan makanan yang sedang dimasak tidak terlupakan",
+      "optionC": "Untuk mencegah terjadinya pemadaman listrik saat Anda kembali",
+      "optionD": "Mematikan peralatan listrik sebelum meninggalkan rumah adalah tindakan pencegahan kebakaran yang penting",
+      "answer": "D"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Bagaimana cara yang efektif untuk menanggulangi kebakaran akibat korsleting listrik, kecuali:",
+      "optionA": "Mematikan listrik di rumah atau bangunan",
+      "optionB": "Menghubungi ahli listrik untuk memperbaiki masalah arus pendek",
+      "optionC": "Menggunakan alat pemadam kebakaran yang sesuai",
+      "optionD": "Menyalakan lebih banyak peralatan elektronik saat terjadi arus pendek",
+      "answer": "D"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan saat terjadi kebakaran besar?",
+      "optionA": "Berusaha memadamkan api dengan air",
+      "optionB": "Menghindari menggunakan alat pemadam kebakaran",
+      "optionC": "Menyelamatkan barang-barang berharga terlebih dahulu",
+      "optionD": "Segera menghubungi petugas pemadam kebakaran",
+      "answer": "D"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "https://tabung-pemadam.com/wp-content/uploads/2019/04/Apar-Busa-Foam-Baru-Murah.png",
+      "question": "Gambar tersebut merupakan Alat Pemadam Api (APAR) jenis apa?",
+      "optionA": "APAR jenis air",
+      "optionB": "APAR jenis busa",
+      "optionC": "APAR jenis serbuk kimia",
+      "optionD": "APAR jenis karbon dioksida (CO2)",
+      "answer": "B"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "https://1.bp.blogspot.com/-EsAOpsxS65o/X1eOchBId0I/AAAAAAAClHY/gtaxd_x_Tr0DXpDMV9diged8ccSd1fzrQCLcBGAsYHQ/s500/Tabung-Pemadam-Isi-Water%2Batau%2Bair.jpg",
+      "question": "Gambar tersebut merupakan Alat Pemadam Api (APAR) jenis apa?",
+      "optionA": "APAR jenis air",
+      "optionB": "APAR jenis busa",
+      "optionC": "APAR jenis serbuk kimia",
+      "optionD": "APAR jenis karbon dioksida (CO2)",
+      "answer": "A"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Berikut adalah jenis-jenis dari Alat Pemadam Api (APAR), kecuali",
+      "optionA": "APAR jenis air",
+      "optionB": "APAR jenis busa",
+      "optionC": "APAR jenis alkohol",
+      "optionD": "APAR jenis karbon dioksida (CO2)",
+      "answer": "C"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan pada luka bakar tingkat ringan?",
+      "optionA": "Letakkan handuk yang sudah dibasahi air dingin pada luka dan diamkan selama 15 menit",
+      "optionB": "Menggosok luka bakar",
+      "optionC": "Mengoleskan mentega atau minyak pada luka",
+      "optionD": "Memencet luka bakar",
+      "answer": "A"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan pada luka bakar yang mengeluarkan nanah dan rasa sakit yang bertambah parah?",
+      "optionA": "Mengoleskan pasta gigi ke luka",
+      "optionB": "Mencuci luka dengan air dingin dan sabun",
+      "optionC": "Periksakan diri ke Dokter",
+      "optionD": "Membiarkan luka tersebut",
+      "answer": "C"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan saat seseorang terbakar dan masih mengenakan pakaian?",
+      "optionA": "Membasahi pakaian dengan air sebelum melepaskannya",
+      "optionB": "Segera melepas pakaian yang melekat pada kulit terbakar",
+      "optionC": "Mencoba memadamkan api dengan menggunakan kain atau baju",
+      "optionD": "Menghindari menggunakan air pada pakaian yang terbakar",
+      "answer": "B"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Mengapa penting untuk tetap tenang saat menghadapi kebakaran?",
+      "optionA": "Agar orang lain tidak tahu jika Anda takut",
+      "optionB": "Untuk memberi waktu lebih lama untuk menyelamatkan barang berharga",
+      "optionC": "Karena kepanikan dapat menghambat kemampuan untuk mengambil keputusan yang tepat",
+      "optionD": "Untuk menghindari kritik dari tetangga atau keluarga",
+      "answer": "C"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Mengapa tidak disarankan untuk menggunakan lift saat terjadi kebakaran?",
+      "optionA": "Karena lift tidak bekerja selama kebakaran",
+      "optionB": "Karena ada risiko kebakaran di dalam lift",
+      "optionC": "Karena lift hanya boleh digunakan oleh petugas pemadam kebakaran",
+      "optionD": "Lift hanya boleh digunakan jika kebakaran terjadi di atas lantai tinggi",
+      "answer": "B"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Tindakan apa yang harus dihindari jika Anda terjebak di dalam ruangan yang terkena kebakaran?",
+      "optionA": "Mencoba menemukan sumber air untuk memadamkan api",
+      "optionB": "Membuka jendela dan mencoba menuruni bangunan dengan tangga darurat",
+      "optionC": "Bersembunyi di balik pintu dan menunggu sampai api padam dengan sendirinya",
+      "optionD": "Mencoba menemukan sumber oksigen tambahan untuk menghindari inhalasi asap",
+      "answer": "B"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa manfaat dari memiliki alat pemadam api ringan (APAR) di rumah?",
+      "optionA": "APAR membantu mengurangi risiko kebakaran dengan memberi akses cepat ke alat pemadam api",
+      "optionB": "Alat pemadam api ringan dapat digunakan untuk memasak dengan lebih aman",
+      "optionC": "APAR berguna untuk mengusir hewan liar yang masuk ke dalam rumah",
+      "optionD": "Alat pemadam api ringan dapat digunakan untuk memancing dan kegiatan luar ruangan lainnya",
+      "answer": "A"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang sebaiknya dilakukan saat Anda berada di dalam ruangan yang terisi asap akibat kebakaran?",
+      "optionA": "Membuka jendela untuk membiarkan asap keluar",
+      "optionB": "Berteriak sekuat mungkin agar tetangga tahu bahwa Anda membutuhkan bantuan",
+      "optionC": "Menggunakan handuk basah untuk menutupi hidung dan mulut saat berjalan keluar",
+      "optionD": "Bersembunyi di bawah tempat tidur atau meja untuk menghindari asap",
+      "answer": "C"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Apa yang harus dilakukan jika seseorang mengalami luka bakar parah dengan kulit terkelupas atau menghitam akibat kebakaran?",
+      "optionA": "Membasahi luka dengan air hangat dan membersihkannya dengan sabun",
+      "optionB": "Mengompres luka dengan air es untuk mengurangi pembengkakan",
+      "optionC": "Mencoba menyembuhkan luka dengan obat tradisional",
+      "optionD": "Segera memanggil ambulans atau bantuan medis darurat",
+      "answer": "D"
+    },
+    {
+      "courseId": "Cara Menanggulangi Kebakaran",
+      "imgLink": "",
+      "question": "Mengapa luka bakar akibat kebakaran perlu ditangani dengan hati-hati?",
+      "optionA": "Karena luka bakar dapat menyebabkan ruam ringan pada kulit.",
+      "optionB": "Karena luka bakar dapat menyebabkan infeksi dan komplikasi serius",
+      "optionC": "Luka bakar tidak memerlukan perawatan khusus dan akan sembuh dengan sendirinya",
+      "optionD": "Karena luka bakar tidak berbahaya dan tidak perlu diberikan penanganan khusus",
+      "answer": "B"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Peran apa yang dapat dilakukan masyarakat dalam pencegahan kebakaran rumah?",
+      "optionA": "Menghindari penggunaan alat-alat listrik",
+      "optionB": "Membuang puntung rokok dengan sembarangan",
+      "optionC": "Melakukan pemeliharaan rutin pada instalasi listrik",
+      "optionD": "Mengumpulkan bahan-bahan mudah terbakar di dekat sumber api",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Apa yang harus dilakukan masyarakat saat melihat titik api atau kebakaran?",
+      "optionA": "Berupaya memadamkan api tanpa bantuan",
+      "optionB": "Mengamati perkembangan api dari kejauhan",
+      "optionC": "Segera melaporkan kebakaran kepada petugas pemadam kebakaran",
+      "optionD": "Meninggalkan area kebakaran tanpa memberi tahu siapa pun",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Jika petugas DAMKAR lambat menuju lokasi kebakaran, sikap apa yang harus dimiliki masyarakat?",
+      "optionA": "Merusak mobil DAMKAR karena kecewa",
+      "optionB": "Menyalahkan petugas DAMKAR yang datang lambat",
+      "optionC": "Memarahi petugas",
+      "optionD": "Menjadi manusia beradab dan memaklumi karena DAMKAR baru akan bergerak setelah ada kebakaran sehingga wajar jika terlambat datang",
+      "answer": "D"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana masyarakat dapat berperan dalam melindungi diri dan tetangga saat terjadi kebakaran, kecuali:",
+      "optionA": "Mencoba memadamkan api tanpa pengetahuan dan peralatan yang tepat",
+      "optionB": "Mencari perlindungan di dalam ruangan yang aman",
+      "optionC": "Menghubungi petugas pemadam kebakaran dengan segera",
+      "optionD": "Membantu tetangga untuk evakuasi jika diperlukan",
+      "answer": "A"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana masyarakat dapat berperan dalam mengedukasi dan meningkatkan kesadaran tentang pencegahan kebakaran, kecuali:",
+      "optionA": "Mengikuti pelatihan dan program keselamatan kebakaran yang diselenggarakan",
+      "optionB": "Menyebarkan informasi tentang langkah-langkah keamanan melalui media sosial atau komunitas",
+      "optionC": "Mengorganisir kegiatan edukasi kebakaran di lingkungan sekitar",
+      "optionD": "Mengabaikan tanda peringatan dan informasi kebakaran yang disediakan",
+      "answer": "D"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Berapa nomor telepon DAMKAR Nasional?",
+      "optionA": "Telepon 111",
+      "optionB": "Telepon 113",
+      "optionC": "Telepon 911",
+      "optionD": "Telepon 122",
+      "answer": "B"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana masyarakat dapat membantu dalam penyuluhan kebakaran di lingkungan mereka?",
+      "optionA": "Mengabaikan kampanye kesadaran kebakaran yang diselenggarakan",
+      "optionB": "Berpartisipasi aktif dalam pelatihan dan simulasi kebakaran",
+      "optionC": "Mengumpulkan dan menyimpan bahan-bahan mudah terbakar di rumah mereka",
+      "optionD": "Tidak memberikan informasi atau membagikan pengetahuan tentang kebakaran",
+      "answer": "B"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana masyarakat dapat membantu dalam mengedukasi anak-anak tentang bahaya kebakaran?",
+      "optionA": "Memberikan anak-anak akses bebas ke bahan bakar dan bahan kimia berbahaya",
+      "optionB": "Tidak mengajarkan anak-anak tentang cara aman menggunakan sumber api",
+      "optionC": "Melakukan simulasi kebakaran di rumah dengan anak-anak untuk mempraktikkan langkah-langkah keamanan",
+      "optionD": "Mengizinkan anak-anak bermain dengan korek api dan bahan yang mudah terbakar",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Apa yang dapat dilakukan masyarakat untuk meningkatkan kesadaran tentang bahaya kebakaran?",
+      "optionA": "Berbicara tentang topik lain yang lebih menyenangkan",
+      "optionB": "Membagikan informasi dan tips pencegahan kebakaran di media sosial atau pertemuan komunitas",
+      "optionC": "Mengabaikan kampanye pencegahan kebakaran yang diselenggarakan oleh pihak berwenang",
+      "optionD": "Hanya berbicara tentang kebakaran setelah ada kebakaran besar yang terjadi",
+      "answer": "B"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana peran masyarakat dalam membantu petugas pemadam kebakaran saat terjadi kebakaran?",
+      "optionA": "Menyembunyikan diri dan tidak memberikan bantuan apa pun",
+      "optionB": "Menghalangi akses jalan bagi petugas pemadam kebakaran",
+      "optionC": "Memberikan informasi yang akurat tentang lokasi dan sumber kebakaran",
+      "optionD": "Mengabaikan perintah evakuasi yang diberikan oleh petugas pemadam kebakaran",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Apakah peran masyarakat dalam membantu korban kebakaran setelah kejadian?",
+      "optionA": "Mengambil barang-barang yang tersisa di lokasi kebakaran",
+      "optionB": "Menyediakan bantuan dan dukungan emosional kepada korban kebakaran",
+      "optionC": "Mengabaikan korban kebakaran karena tugas tersebut merupakan tanggung jawab petugas pemadam kebakaran",
+      "optionD": "Hanya memberikan bantuan jika diminta oleh petugas pemadam kebakaran",
+      "answer": "B"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Mengapa penting bagi masyarakat untuk mematuhi peraturan keamanan kebakaran yang berlaku di lingkungan mereka?",
+      "optionA": "Hanya untuk menunjukkan kesopanan kepada tetangga",
+      "optionB": "Karena peraturan tersebut sifatnya opsional dan tidak berpengaruh pada keselamatan",
+      "optionC": "Agar tercipta lingkungan yang aman dari risiko kebakaran",
+      "optionD": "Peraturan keamanan kebakaran hanya berlaku bagi petugas pemadam kebakaran",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana masyarakat dapat membantu dalam mengurangi risiko kebakaran di lingkungan sekitar?",
+      "optionA": "Meninggalkan sampah atau bahan mudah terbakar di sekitar area pemukiman",
+      "optionB": "Meninggalkan peralatan elektronik dan listrik menyala saat meninggalkan rumah",
+      "optionC": "Menyediakan dan memastikan lokasi pemadaman api ringan (APAR) di dekat area risiko kebakaran",
+      "optionD": "Mengabaikan kondisi dan lingkungan yang berpotensi menyebabkan kebakaran",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Apakah peran masyarakat dalam melaporkan dan mencegah kebakaran akibat perilaku manusia seperti pembakaran sampah sembarangan?",
+      "optionA": "Menghindari melaporkan kebakaran akibat perilaku manusia karena dianggap tidak penting",
+      "optionB": "Hanya melaporkan kebakaran jika dugaan penyebabnya adalah alamiah, bukan manusia",
+      "optionC": "Melaporkan kebakaran akibat perilaku manusia dan berpartisipasi dalam kampanye pencegahan",
+      "optionD": "Mengabaikan laporan kebakaran akibat perilaku manusia karena dianggap tanggung jawab pihak berwenang",
+      "answer": "C"
+    },
+    {
+      "courseId": "Peran Masyarakat",
+      "imgLink": "",
+      "question": "Bagaimana peran masyarakat dalam membantu penyediaan dan pemeliharaan fasilitas pemadam kebakaran di lingkungan mereka?",
+      "optionA": "Mengandalkan pemerintah atau pihak berwenang untuk sepenuhnya bertanggung jawab atas fasilitas pemadam kebakaran",
+      "optionB": "Mengabaikan fasilitas pemadam kebakaran karena dianggap tidak berpengaruh pada keselamatan",
+      "optionC": "Hanya menggunakan fasilitas pemadam kebakaran jika terjadi kebakaran di sekitar",
+      "optionD": "Berpartisipasi dalam penggalangan dana atau kampanye untuk mendukung penyediaan dan pemeliharaan fasilitas pemadam kebakaran",
+      "answer": "D"
+    }
+  ]
+}
